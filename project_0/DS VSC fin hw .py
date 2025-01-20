@@ -21,9 +21,9 @@ def game_core_v3(number: int = 1) -> int:
         middle = (min_num + max_num) // 2
         # сравнение среднего значения с загаданным числом для сужения границ поиска
         if middle < number:
-            low = middle + 1
+            min_num = middle + 1
         elif middle > number:
-            high = middle - 1
+            max_num = middle - 1
         else:
             return count
 
