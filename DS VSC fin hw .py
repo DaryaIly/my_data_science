@@ -14,12 +14,12 @@ def game_core_v3(number: int = 1) -> int:
     # предполагаемое число
     predict = np.random.randint(1, 101)
     # задаем границы для бинарного поиска
-    min_num = 0
-    max_num= 100
+    low = 0
+    high = 100
     while True:
         count += 1
         # среднее значение заданных границ
-        middle = (min_num + max_num) // 2
+        middle = (low + high) // 2
         # сравнение среднего значения с загаданным числом для сужения границ поиска
         if middle < number:
             low = middle + 1
