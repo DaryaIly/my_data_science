@@ -1,22 +1,22 @@
 # My Data Science Projects. Проект 0. Угадай число
 
 ## Оглавление
-[1. Описание проекта](https://github.com/DaryaIly/my_data_science/tree/main/project_0README.md#КОписание-проекта)
+[1. Описание проекта](https://github.com/DaryaIly/my_data_science/blob/main/project_0/README.md#КОписание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/DaryaIly/my_data_science/tree/main/project_0README.md#Какой-кейс-решаем)
+[2. Какой кейс решаем?](https://github.com/DaryaIly/my_data_science/blob/main/project_0/README.md#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/DaryaIly/my_data_science/tree/main/project_0README.md#Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/DaryaIly/my_data_science/blob/main/project_0/README.md#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/DaryaIly/my_data_science/tree/main/project_0README.md#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/DaryaIly/my_data_science/blob/main/project_0/README.md#Этапы-работы-над-проектом)
 
-[5. Результат](https://github.com/DaryaIly/my_data_science/tree/main/project_0README.md#Результат)
+[5. Результат](https://github.com/DaryaIly/my_data_science/blob/main/project_0/README.md#Результат)
 
-[6. Выводы](https://github.com/DaryaIly/my_data_science/tree/main/project_0README.md#Выводы)
+[6. Выводы](https://github.com/DaryaIly/my_data_science/blob/main/project_0/README.md#Выводы)
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальнопе число попыток
 
-:arrow_up:[к оглавлению](https://github.com/DaryaIly/my_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/DaryaIly/my_data_science/blob/main/project_0/README.md#Оглавление)
 
 ### Какой кейс решаем?
 Нужно написать программу, которая угадывает число за минимальнопе число попыток
@@ -34,6 +34,4 @@
 ### Краткая информация о данных
 ....
 
-:arrow_up:[к оглавлению](https://github.com/DaryaIly/my_data_science/tree/main/project_0/README.md#Оглавление)
-
-[def]: https://github.com/DaryaIly/my_data_science/tree/main/project_0/README.md#Описание-проекта
+:arrow_up:[к оглавлению](https://github.com/DaryaIly/my_data_science/blob/main/project_0/README.md#Оглавление)
